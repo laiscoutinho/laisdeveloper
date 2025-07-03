@@ -19,19 +19,25 @@
   <table>
     <tr>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img align="center" alt="SQLserver" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  </td>
-      <td  align="center" width=110><img class="skills__logo" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Logo MySQL"></td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
+      <td  align="center" width=110><img class="skills__logo" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Logo MySQL"></td>     
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Java</td>
+      <td align="center" width=110>Spring Boot</td>
       <td align="center" width=110>HTML</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>SQLServer</td>
+      <td align="center" width=110>React</td>
       <td align="center" width=110>MySQL</td>
+      <td align="center" width=110>PostgreSQL</td>
+      <td align="center" width=110>Postman</td>
     </tr>
   </table>
 </div><br>
@@ -51,20 +57,19 @@
   </table>
 </div><br>
 
-
 <h2 align="left">🛠️ Statistics</h2>
 <div style="display: flex; justify-content: space-around; width: 100%;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=laisdeveloper&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=laiscoutinho&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
   </div>
   <div>
-    <a href="https://github.com/laisdeveloper/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisdeveloper&layout=donut&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
+    <a href="https://github.com/laiscoutinho/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscoutinho&layout=donut&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
     </a>
   </div>
 </div>
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/laisdeveloper/laisdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/laiscoutinho/laiscoutinho/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
@@ -72,7 +77,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/laisdev/" target="_blank">
+    <a href="https://www.linkedin.com/in/laisccoutinho/" target="_blank">
       <i class="fab fa-linkedin"></i>  LinkedIn
     </a>
   </li>
